@@ -1,1 +1,1 @@
-This an RFC based on the discussino we had in isue xxx
+This an RFC based on the discussion we had in issue 123
